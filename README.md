@@ -207,4 +207,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-*Completed as Certificate Project 4 — freeCodeCamp Back End Development and APIs.*
+*Completed as Certificate Project 4 - freeCodeCamp Back End Development and APIs.*
